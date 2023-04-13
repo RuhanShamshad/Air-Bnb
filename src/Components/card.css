@@ -1,0 +1,27 @@
+.card{
+    width: 175px;
+    font-size: 12px;
+    padding: 20px;
+}
+.cards-list{
+    display: flex;
+    justify-content: center;
+}
+.card--img{
+    width: 100%;
+    border-radius: 9px;
+    height: 50%;
+}
+.card--stat{
+    display: flex;
+    align-items: center;
+}
+.card--star{
+    height: 14px;
+}
+.gray{
+    color: #918e9b;
+}
+.bold{
+    font-weight: bold;
+}
